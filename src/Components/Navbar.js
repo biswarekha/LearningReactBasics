@@ -1,7 +1,5 @@
 import React from 'react';
 
-
-
 const navbar = () => {
 return (
      <div className='navbar'>
@@ -11,7 +9,7 @@ return (
       <a href='calculator.html'>Calculator</a>
      </div>
   
-) 
+);
 }
 
 export default navbar;
